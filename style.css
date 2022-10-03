@@ -6,3 +6,7 @@ h1 {
   border-radius: 10px;
   margin: 50px auto;
 }
+
+body {
+  background-color: burlywood;
+}
