@@ -1,5 +1,5 @@
 h1 {
-  color: blue;
+  color: black;
   padding: 15px 30px;
   background-color: #ccc;
   width: fit-content;
@@ -8,5 +8,5 @@ h1 {
 }
 
 body {
-  background-color: burlywood;
+  background-color: orange;
 }
